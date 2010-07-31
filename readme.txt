@@ -4,7 +4,6 @@ run the sql script to setup the tables
 
 load your site and you should have the final demo
 
-
 Presentation Slides
 Prezi - http://bit.ly/bEdLlv
 PowerPoint (older slide deck) - https://docs.google.com/present/view?id=dc2sb454_492dd4579h2
